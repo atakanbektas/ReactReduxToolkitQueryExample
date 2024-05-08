@@ -6,8 +6,30 @@
 
 .photo-delete {
 position: absolute;
-font-size: 30px;
+font-size: 50px;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
+visibility: hidden;
 }
+
+.photo-delete > svg {
+    width: 35px;
+    height: 35px;
+    color: white;
+}
+
+.photo-container img {
+    transition: 0.5s;
+}
+
+.photo-container:hover img {
+    filter: blur(5px);
+    scale: 1.1;
+}
+
+.photo-container:hover .photo-delete {
+    visibility: visible;
+    filter: blur(0px);
+}
+

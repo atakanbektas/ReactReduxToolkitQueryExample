@@ -17,7 +17,7 @@ const PhotoListItem = ({photo}) => {
     <div onClick={handleRemovePhoto} className='photo-container'>
        <img src={photo.url}/>
        <div className='photo-delete'>
-        {results.isLoading ? <CircularProgress style={{width:15,height:15}} /> : <TfiTrash size={18} />}
+        {results.isLoading ? <CircularProgress style={{width:120,height:120}} /> : <TfiTrash size={18} />}
        </div>
     </div>
   )
