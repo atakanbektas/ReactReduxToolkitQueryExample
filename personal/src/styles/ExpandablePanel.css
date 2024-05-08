@@ -1,0 +1,26 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.panelDiv {
+    background-color: rgb(240, 236, 243);
+    box-shadow: 0px 4px 5px rgb(153, 148, 156);
+    transition: all 0.6s;
+    margin: 50px 50px 50px 50px;
+}
+
+.panelDiv:hover {
+    background-color: rgb(205, 190, 214);
+    box-shadow: 0px 8px 5px rgb(157, 153, 160);
+}
+
+.downLeft {
+    text-align: center;
+    width: 1.4rem;
+    font-size: x-large;
+    box-shadow: 1px 1px 3px gray;
+    transition: 0.5s;
+}

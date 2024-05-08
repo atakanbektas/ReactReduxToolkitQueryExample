@@ -1,24 +1,96 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Atakan"
+      "id": "330f",
+      "name": "Katherine Tillman"
     },
     {
-      "id": "2",
-      "name": "Berkay"
+      "id": "8fc5",
+      "name": "Raul Weissnat"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1350",
+      "userId": "330f",
+      "title": "Licensed Soft Shirt"
     },
     {
-      "id": "ae79",
-      "name": "Darnell Hyatt I"
+      "id": "775e",
+      "userId": "330f",
+      "title": "Handcrafted Wooden Ball"
     },
     {
-      "id": "17c9",
-      "name": "Jane Kling"
+      "id": "855e",
+      "userId": "8fc5",
+      "title": "Sleek Wooden Shirt"
+    }
+  ],
+  "photos": [
+    {
+      "id": "e547",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7543651332784128"
     },
     {
-      "id": "cea9",
-      "name": "Mr. Geoffrey Hermann"
+      "id": "33b7",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5589414549913600"
+    },
+    {
+      "id": "35ed",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6803436838322176"
+    },
+    {
+      "id": "819e",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5599120714629120"
+    },
+    {
+      "id": "9bad",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2084633919356928"
+    },
+    {
+      "id": "a265",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7968176052633600"
+    },
+    {
+      "id": "625c",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1085070322434048"
+    },
+    {
+      "id": "9cdd",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6867801541181440"
+    },
+    {
+      "id": "efb7",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=978749034070016"
+    },
+    {
+      "id": "19ad",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1875085640073216"
+    },
+    {
+      "id": "cfb9",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=8067706108510208"
+    },
+    {
+      "id": "d6c4",
+      "albumId": "855e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3692550680477696"
+    },
+    {
+      "id": "f513",
+      "albumId": "855e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3682516179353600"
     }
   ]
 }

@@ -1,0 +1,15 @@
+.listItemButton {
+    margin-right: 20px;
+    background-color: inherit;
+    border-color: transparent;
+    box-shadow: 1px 1px 3px gray;
+    height: 2rem;
+    width: 3rem;
+    transition: 0.5s;
+}
+
+.listItemButton:hover {
+    box-shadow: 1px 3px 10px gray;
+    scale: 1.2;
+    cursor: pointer;
+}

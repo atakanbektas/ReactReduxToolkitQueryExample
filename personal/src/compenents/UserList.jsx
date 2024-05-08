@@ -37,7 +37,7 @@ const UserList = () => {
       <div className='navbar'>
         <h1>Kişiler</h1>
         <Button variant='outlined' onClick={handleUserAdd}>
-            {results.isLoading ? <CircularProgress color="success"/> : "Kişi Ekle +"}
+            {results.isLoading ? <CircularProgress color="success"/> : "KISI Ekle +"}
         </Button>
       </div>
       {content}
