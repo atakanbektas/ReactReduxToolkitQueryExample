@@ -36,7 +36,7 @@ const usersApi = createApi({
                         url:'/users',
                         method: 'POST',
                         body: {
-                            name: faker.name.fullName(),
+                            name: faker.person.fullName(),
                         }
                     }
                 }
