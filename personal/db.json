@@ -1,71 +1,8 @@
 {
   "users": [
-    {
-      "id": "664b",
-      "name": "Beverly Johnson III"
-    },
-    {
-      "id": "cd76",
-      "name": "May Bartoletti DVM"
-    }
   ],
   "albums": [
-    {
-      "id": "b44e",
-      "userId": null,
-      "title": "Elegant Rubber Sausages"
-    },
-    {
-      "id": "1c35",
-      "userId": null,
-      "title": "Rustic Concrete Car"
-    },
-    {
-      "id": "ed76",
-      "userId": "664b",
-      "title": "Sleek Steel Computer"
-    }
   ],
   "photos": [
-    {
-      "id": "8258",
-      "albumId": "b44e",
-      "url": "https://loremflickr.com/150/150/abstract?lock=4791195721007104"
-    },
-    {
-      "id": "000f",
-      "albumId": null,
-      "url": "https://loremflickr.com/150/150/abstract?lock=3756011649236992"
-    },
-    {
-      "id": "4c78",
-      "albumId": "1c35",
-      "url": "https://loremflickr.com/150/150/abstract?lock=6887632919330816"
-    },
-    {
-      "id": "072a",
-      "albumId": "1c35",
-      "url": "https://loremflickr.com/150/150/abstract?lock=8897159692812288"
-    },
-    {
-      "id": "3907",
-      "albumId": "1c35",
-      "url": "https://loremflickr.com/150/150/abstract?lock=97918570725376"
-    },
-    {
-      "id": "6674",
-      "albumId": "b44e",
-      "url": "https://loremflickr.com/150/150/abstract?lock=3356964035756032"
-    },
-    {
-      "id": "7140",
-      "albumId": "b44e",
-      "url": "https://loremflickr.com/150/150/abstract?lock=7179733441708032"
-    },
-    {
-      "id": "49cd",
-      "albumId": "ed76",
-      "url": "https://loremflickr.com/150/150/abstract?lock=1772592765599744"
-    }
   ]
 }
