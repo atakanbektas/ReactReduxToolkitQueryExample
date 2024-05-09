@@ -1,8 +1,111 @@
 {
   "users": [
+    {
+      "id": "330f",
+      "name": "Katherine Tillman"
+    },
+    {
+      "id": "8fc5",
+      "name": "Raul Weissnat"
+    }
   ],
   "albums": [
+    {
+      "id": "1350",
+      "userId": "330f",
+      "title": "Licensed Soft Shirt"
+    },
+    {
+      "id": "775e",
+      "userId": "330f",
+      "title": "Handcrafted Wooden Ball"
+    },
+    {
+      "id": "855e",
+      "userId": "8fc5",
+      "title": "Sleek Wooden Shirt"
+    },
+    {
+      "id": "9307",
+      "userId": "8fc5",
+      "title": "Oriental Frozen Shoes"
+    },
+    {
+      "id": "5187",
+      "userId": "8fc5",
+      "title": "Intelligent Soft Chips"
+    }
   ],
   "photos": [
+    {
+      "id": "35ed",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6803436838322176"
+    },
+    {
+      "id": "efb7",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=978749034070016"
+    },
+    {
+      "id": "d6c4",
+      "albumId": "855e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3692550680477696"
+    },
+    {
+      "id": "f513",
+      "albumId": "855e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3682516179353600"
+    },
+    {
+      "id": "c5ae",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2588268776390656"
+    },
+    {
+      "id": "99b9",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2080008065515520"
+    },
+    {
+      "id": "6f4f",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2713921930657792"
+    },
+    {
+      "id": "a00a",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=3036432157376512"
+    },
+    {
+      "id": "1789",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7771380810514432"
+    },
+    {
+      "id": "d214",
+      "albumId": "1350",
+      "url": "https://loremflickr.com/150/150/abstract?lock=486847950094336"
+    },
+    {
+      "id": "ea2d",
+      "albumId": "775e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5416245637677056"
+    },
+    {
+      "id": "c1b8",
+      "albumId": "775e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1613487507767296"
+    },
+    {
+      "id": "5b78",
+      "albumId": "775e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7679516797304832"
+    },
+    {
+      "id": "6c6e",
+      "albumId": "775e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7674087048478720"
+    }
   ]
 }

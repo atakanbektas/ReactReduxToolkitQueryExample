@@ -36,8 +36,8 @@ const PhotoList = ({album}) => {
     <div>
       <div className='navbar'>
         <h3>{album.title} FOTOĞRAFLARI</h3>
-        <Button variant='outlined' color='secondary' onClick={handlePhotoAdd}>
-            {results.isLoading ? <CircularProgress color="success"/> : "Fotoğraf Ekle +"}
+        <Button variant='outlined' color='warning' onClick={handlePhotoAdd}>
+            {results.isLoading ? <CircularProgress color="warning"/> : "Fotoğraf Ekle +"}
         </Button>
       </div>
     </div>
